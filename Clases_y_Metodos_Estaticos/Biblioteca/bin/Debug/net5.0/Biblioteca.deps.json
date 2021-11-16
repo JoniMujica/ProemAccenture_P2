@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Clases_y_Metodos_Estaticos/1.0.0": {
-        "dependencies": {
-          "Biblioteca": "1.0.0"
-        },
-        "runtime": {
-          "Clases_y_Metodos_Estaticos.dll": {}
-        }
-      },
       "Biblioteca/1.0.0": {
         "runtime": {
           "Biblioteca.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Clases_y_Metodos_Estaticos/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,

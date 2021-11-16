@@ -14,3 +14,6 @@ D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clas
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\obj\Debug\net5.0\ref\Clases_y_Metodos_Estaticos.dll
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\obj\Debug\net5.0\Clases_y_Metodos_Estaticos.pdb
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\obj\Debug\net5.0\Clases_y_Metodos_Estaticos.genruntimeconfig.cache
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\bin\Debug\net5.0\Biblioteca.dll
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\bin\Debug\net5.0\Biblioteca.pdb
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Clases_y_Metodos_Estaticos\Clases_y_Metodos_Estaticos\obj\Debug\net5.0\Clases_y_Metodos_Estaticos.csproj.CopyComplete

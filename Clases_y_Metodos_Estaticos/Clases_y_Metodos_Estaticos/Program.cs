@@ -10,7 +10,9 @@ namespace Clases_y_Metodos_Estaticos
         {
             // SC.WriteLine("Hello World!"); //uso de ALIAS
             Cotizador.CotizarVentaDolares(45.2M);
-            Console.WriteLine("Hello World!");
+
+            string texto = Cotizador.MostrarDatos();
+            Console.WriteLine(texto);
         }
     }
 }
