@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "BibliotecaDeClases/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/BibliotecaDeClases.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BibliotecaDeClases.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "BibliotecaDeClases/1.0.0": {
-      "type": "project",
-      "path": "../BibliotecaDeClases/BibliotecaDeClases.csproj",
-      "msbuildProject": "../BibliotecaDeClases/BibliotecaDeClases.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "BibliotecaDeClases >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\jonim\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ1\\EJ1\\EJ1.csproj",
-      "projectName": "EJ1",
-      "projectPath": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ1\\EJ1\\EJ1.csproj",
+      "projectUniqueName": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ2\\EJ2\\EJ2.csproj",
+      "projectName": "EJ2",
+      "projectPath": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ2\\EJ2\\EJ2.csproj",
       "packagesPath": "C:\\Users\\jonim\\.nuget\\packages\\",
-      "outputPath": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ1\\EJ1\\obj\\",
+      "outputPath": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ2\\EJ2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,11 +32,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ1\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-              "projectPath": "D:\\Archivos w11\\Documentos\\Capacitacion Proem P2\\Sobrecarga EJS\\EJ1\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
