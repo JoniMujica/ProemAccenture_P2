@@ -32,11 +32,9 @@ namespace FrmPrincipal
             this.label1 = new System.Windows.Forms.Label();
             this.txtBUsuario = new System.Windows.Forms.TextBox();
             this.BTNEnviar = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.LBLContrasenia = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtPW = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -67,29 +65,6 @@ namespace FrmPrincipal
             this.BTNEnviar.UseVisualStyleBackColor = true;
             this.BTNEnviar.Click += new System.EventHandler(this.BTNEnviar_Click);
             // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(297, 57);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(62, 19);
-            this.checkBox1.TabIndex = 3;
-            this.checkBox1.Text = "Admin";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(426, 53);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(31, 19);
-            this.radioButton1.TabIndex = 4;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "1";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
-            // 
             // LBLContrasenia
             // 
             this.LBLContrasenia.Location = new System.Drawing.Point(0, 0);
@@ -106,13 +81,13 @@ namespace FrmPrincipal
             this.label2.TabIndex = 5;
             this.label2.Text = "Contrasenia";
             // 
-            // textBox1
+            // txtPW
             // 
-            this.textBox1.Location = new System.Drawing.Point(109, 87);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.PasswordChar = '*';
-            this.textBox1.Size = new System.Drawing.Size(173, 23);
-            this.textBox1.TabIndex = 6;
+            this.txtPW.Location = new System.Drawing.Point(109, 87);
+            this.txtPW.Name = "txtPW";
+            this.txtPW.PasswordChar = '*';
+            this.txtPW.Size = new System.Drawing.Size(173, 23);
+            this.txtPW.TabIndex = 6;
             // 
             // FmrLogin
             // 
@@ -120,11 +95,9 @@ namespace FrmPrincipal
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(615, 265);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtPW);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.LBLContrasenia);
-            this.Controls.Add(this.radioButton1);
-            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.BTNEnviar);
             this.Controls.Add(this.txtBUsuario);
             this.Controls.Add(this.label1);
@@ -141,11 +114,9 @@ namespace FrmPrincipal
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtBUsuario;
         private System.Windows.Forms.Button BTNEnviar;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.Label LBLContrasenia;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtPW;
     }
 }
 

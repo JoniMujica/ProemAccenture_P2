@@ -30,9 +30,12 @@ namespace FrmPrincipal
         private void BTNEnviar_Click(object sender, EventArgs e)
         {
             string nombre = this.txtBUsuario.Text;
+            string pass = this.txtPW.Text;
+            /*
             bool esAdmin = checkBox1.Checked;
-            bool seleccionado = radioButton1.Checked;
-            DialogResult result = MessageBox.Show($"Hola {nombre} es Admin: {esAdmin}","Bienvenida",MessageBoxButtons.YesNoCancel,MessageBoxIcon.Exclamation);
+            bool seleccionado = radioButton1.Checked;*/
+            //DialogResult result = MessageBox.Show($"Hola {nombre} es Admin: {esAdmin}","Bienvenida",MessageBoxButtons.YesNoCancel,MessageBoxIcon.Exclamation);
+            /*
             if (result == DialogResult.Yes)
             {
                 MessageBox.Show("yes");
@@ -40,17 +43,13 @@ namespace FrmPrincipal
             else if (result == DialogResult.No)
             {
                 MessageBox.Show("Selecciono NO");
+            }*/
+
+            if (nombre == "joni" && pass == "asd123")
+            {
+                FrmMenu frmMenu = new FrmMenu(nombre);
+                frmMenu.Show();
             }
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
         }
 
     }

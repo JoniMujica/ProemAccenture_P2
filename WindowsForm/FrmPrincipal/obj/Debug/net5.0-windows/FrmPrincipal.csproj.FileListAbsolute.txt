@@ -16,3 +16,4 @@ D:\Archivos w11\Documentos\Capacitacion Proem P2\WindowsForm\FrmPrincipal\obj\De
 D:\Archivos w11\Documentos\Capacitacion Proem P2\WindowsForm\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.pdb
 D:\Archivos w11\Documentos\Capacitacion Proem P2\WindowsForm\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
 D:\Archivos w11\Documentos\Capacitacion Proem P2\WindowsForm\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.FmrLogin.resources
+D:\Archivos w11\Documentos\Capacitacion Proem P2\WindowsForm\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.FrmMenu.resources
