@@ -10,6 +10,13 @@ namespace Encapsulamiento
             Persona p1 = new Persona(45);
             //p1.Edad = -45;
             Console.WriteLine("La edad es: {0}",p1.Edad);
+
+            Enumeramiento e1 = new Enumeramiento();
+            e1.ColorFavorito = Enumeramiento.Color.Azul;
+            //e1.ColorFavorito = (Enumeramiento.Color) 100;
+            Console.WriteLine($"Color favorito {e1.ColorFavorito}"); //acceder al nombre de la enumeracion
+            Console.WriteLine((int)e1.ColorFavorito); //acceder al valor del color favorito enum
+            
         }
     }
     class Persona
