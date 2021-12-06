@@ -1,0 +1,12 @@
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.dll
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\bin\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.pdb
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Colecciones EJS\EJ2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
