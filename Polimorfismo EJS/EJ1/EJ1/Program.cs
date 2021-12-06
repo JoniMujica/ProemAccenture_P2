@@ -8,7 +8,8 @@ namespace EJ1
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio Sobre-Sobrescrito";
-            Sobreescrito objetoSobrescrito = new Sobreescrito();
+            //Sobreescrito objetoSobrescrito = new Sobreescrito();
+            Sobreescrito objetoSobrescrito = new SobreSobrescrito();
             Console.WriteLine(objetoSobrescrito.ToString());
             string objeto = "¡Este es mi método ToString sobrescrito!";
             Console.WriteLine("----------------------------------------------");
@@ -16,6 +17,8 @@ namespace EJ1
             Console.WriteLine(objetoSobrescrito.Equals(objeto));
             Console.WriteLine("----------------------------------------------");
             Console.WriteLine(objetoSobrescrito.GetHashCode());
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine(objetoSobrescrito.MiMetodo());
         }
     }
 }

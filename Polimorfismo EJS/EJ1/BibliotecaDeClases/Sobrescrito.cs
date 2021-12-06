@@ -2,8 +2,17 @@
 
 namespace BibliotecaDeClases
 {
-    public class Sobreescrito
+    public abstract class Sobreescrito
     {
+        protected string miAtributo;
+
+        public Sobreescrito()
+        {
+            this.miAtributo = "Probar Abstractos";
+        }
+        public abstract string MiPropiedad { get; }
+
+        public abstract string MiMetodo();
         public override string ToString()
         {
             return "¡Este es mi metodo ToString sobreescrito";
@@ -17,6 +26,20 @@ namespace BibliotecaDeClases
         {
             return 1142510181;
         }
+    }
+    public class SobreSobrescrito : Sobreescrito
+    {
+        public override string MiPropiedad
+        {
+            get
+            {
+                return miAtributo;
+            }
+        }
 
+        public override string MiMetodo()
+        {
+            return MiPropiedad;
+        }
     }
 }
