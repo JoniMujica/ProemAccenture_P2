@@ -13,8 +13,14 @@ namespace BibliotecaDeClases
         {
             return "Woof";
         }*/
-        string nombre;
+        //string nombre;
         int edad;
+        //metodos abstractos
+        public override string Saludar()
+        {
+            return "Hola Soy un perrito 2 " + nombre;
+        }
+
         public override string EmitirSonido() //override invalida/redefine/sobreescribe un metodo virtual de la clase base
         {
             //return "Woof";

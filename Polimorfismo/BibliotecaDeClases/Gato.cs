@@ -12,5 +12,9 @@ namespace BibliotecaDeClases
         {
             return "MIAW";
         }
+        public override string Saludar()
+        {
+            return $"Hola soy un gato {EmitirSonido()}";
+        }
     }
 }

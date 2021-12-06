@@ -9,3 +9,4 @@ D:\Archivos w11\Documentos\Capacitacion Proem P2\Polimorfismo\BibliotecaDeClases
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Polimorfismo\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Polimorfismo\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
 D:\Archivos w11\Documentos\Capacitacion Proem P2\Polimorfismo\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
+D:\Archivos w11\Documentos\Capacitacion Proem P2\Polimorfismo\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
